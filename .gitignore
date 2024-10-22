@@ -3,3 +3,7 @@ myenv/
 "myenv/" 
 "*.pyc" 
 "__pycache__/" 
+"myenv/" 
+"pyFirmata2/" 
+"*.pyc" 
+"__pycache__/" 
